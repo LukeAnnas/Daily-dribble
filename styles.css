@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    color: #121212;
+}
+#stadium-img{
+    width: 380px;
+    border: 3px solid #121212; 
+}
+.terms-btn{
+    color: #121212
+}
+.description{
+    font-style: italic;
+}
+.btn-wrapper{
+    
+}
+.input-wrap{
+    
+}
+.email{
+    text-align: center;
+    margin-top: 4px;
+    border: 3px solid #121212;
+    padding: 5px 10px;
+    font-size: 14px
+}
+.btn{
+    background: #121212;
+    border: 3px solid black;
+    width: 195px;
+    color: white;
+    margin-top: 8px;
+    padding: 8px 0px 8px;
+    font-weight: bold;
+}
